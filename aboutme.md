@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello there!!!
-subtitle: Myself Rushiraj
+title: Hola!!
+subtitle: Myself Rushiraj Gohil
 ---
 
 My name is Rushiraj Gohil. I have the following qualities:
