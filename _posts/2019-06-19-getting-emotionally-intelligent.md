@@ -3,7 +3,7 @@ layout: post
 title: Getting Emotionally Intelligent !!!
 subtitle: by Rushiraj Gohil
 cover-img: assets/img/download (8).jpg
-thumbnail-img: assets/img/download (10).jpg
+thumbnail-img: assets/img/colton-duke-QRU0i5AqEJA-unsplash.jpg
 share-img: assets/img/emotional-intelligence.gif
 tags: [Imotional Intelligence]
 ---
