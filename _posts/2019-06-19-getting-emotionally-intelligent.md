@@ -5,7 +5,7 @@ subtitle: by Rushiraj Gohil
 cover-img: assets/img/colton-duke-QRU0i5AqEJA-unsplash.jpg
 thumbnail-img: assets/img/download (10).jpg
 share-img: assets/img/emotional-intelligence.gif
-tags: [Imotional Intelligence]
+tags: [Emotional Intelligence]
 ---
 
 <span style="font-weight: 400;">All of us, throughout our life, have to undergo situations, where we feel our heart in the throat ,ears listen to own heartbeats, the head sweats like its 45-degree scorching summer and at same time legs shivers as if its -5-degree freezing winter, the hand's muscles losses to hold even a 5-gram pen and mouth shutter to speak a word!!</span>
