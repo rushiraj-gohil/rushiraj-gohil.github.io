@@ -5,7 +5,6 @@ subtitle: This is where magic happens
 ---
 
 ## Sophomore Year
-
 #### II year
 
 -------------------------------------------
@@ -30,8 +29,6 @@ We have implemented following portfolio optimization techniques from scratch -
 - Optimize Portfolio
 - Obtain Live Stats
 
-Visit [Quantizers](https://quantizers.herokuapp.com/) for more....
-
 ## Tech Stack
 ### Tools & Technologies
 - Flask (Micro Web framework of python)
@@ -42,3 +39,5 @@ Visit [Quantizers](https://quantizers.herokuapp.com/) for more....
 - Python
 - HTML
 - CSS
+
+Visit [Quantizers](https://quantizers.herokuapp.com/) for more....
