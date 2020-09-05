@@ -5,7 +5,7 @@ subtitle: This is where magic happens
 ---
 
 ## Sophomore Year
-#### II year
+**II year**
 
 -------------------------------------------
 
@@ -40,4 +40,4 @@ We have implemented following portfolio optimization techniques from scratch -
 - HTML
 - CSS
 
-Visit [Quantizers](https://quantizers.herokuapp.com/) for more....
+Visit [Quantizers](https://quantizers.herokuapp.com/ "Qunatizers- Student Investment Portfolio") for more....
