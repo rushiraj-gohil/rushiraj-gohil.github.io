@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal
 title: Projects
 subtitle: This is where magic happens
 ---
