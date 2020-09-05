@@ -5,12 +5,12 @@ subtitle: This is where magic happens
 ---
 
 ## Sophomore Year
-**II year**
+#### II year
 
 -------------------------------------------
 
 #### 1. Student Investment Portfolio
-***[June-July 2020]***
+#### _[June-July 2020]_
 
 ## Aim
 ***This web app is the one-stop destination for all your investment needs and leads to a path of financial freedom.***<br>
