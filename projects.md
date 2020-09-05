@@ -42,3 +42,4 @@ We have implemented following portfolio optimization techniques from scratch -
 - CSS
 
 Visit [Quantizers](https://quantizers.herokuapp.com/ "Qunatizers- Student Investment Portfolio") for more....
+GitHub Repo: [https://github.com/shivanshsinghal107/Investment-Portfolio](https://github.com/shivanshsinghal107/Investment-Portfolio)
