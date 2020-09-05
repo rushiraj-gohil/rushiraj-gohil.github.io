@@ -1,7 +1,7 @@
 ---
-layout: home
-title: Rushiraj Gohil
-subtitle: This is where I will tell my friends way too much about me
+layout: page
+title: Projects
+subtitle: This is where magic happens
 ---
 
 ##Sophomore Year
