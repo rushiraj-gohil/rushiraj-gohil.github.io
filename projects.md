@@ -12,6 +12,7 @@ subtitle: This is where magic happens
 #### 1. Student Investment Portfolio
 #### _[June-July 2020]_
 
+
 ## Aim
 ***This web app is the one-stop destination for all your investment needs and leads to a path of financial freedom.***<br>
 We, the ***Quantizers*** team, have created this web application focusing on **students** and people coming from *low-income class*.
